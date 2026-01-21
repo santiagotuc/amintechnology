@@ -1,0 +1,110 @@
+Estimada Cristina,
+
+¡Bienvenida! 
+A continuación, te detallo los sencillos pasos para instalar 
+las nuevas firma de correo electrónico profesional.
+
+    Accede a tu Firma en Código HTML
+    Sigue estas instrucciones para configurar tu firma:
+
+1. Instalación en Outlook (Web) (Versión Web)
+
+A- Abre Outlook en tu navegador web.
+
+B- Haz clic en el ícono de la rueda dentada (Configuración), 
+ubicado en la esquina superior derecha, y selecciona "Cuenta".
+
+C- Dirígete a la sección "Firmas".
+
+D- Haz clic en "+ Nueva firma" o elige la firma existente que desees modificar.
+
+E- Asigna un nombre a tu firma o edita el actual.
+
+F- En el cuadro de edición de la firma, pega el contenido 
+ (Ctrl+V en Windows, Cmd+V en Mac).
+
+G- Debajo del cuadro de edición, si lo necesitas, encontrarás las opciones de 
+"Seleccionar firmas predeterminadas" para configurar cuándo se aplica tu firma automáticamente.
+
+H- Desplázate hasta el final de la página y haz clic en "Guardar".
+
+I- Cierra la configuración seleccionando la "X".
+
+J- Inserta tu Firma en un Nuevo Correo
+K- Una vez configurada, puedes insertar tu firma en cualquier mensaje:
+
+L-Haz clic en "Correo Nuevo".
+Redacta tu mensaje.
+En el menú superior de Outlook, selecciona la opción "Insertar".
+M- Elige "Firma" y selecciona la firma que acabas de crear.
+   ¡Listo! Tu firma ya forma parte de tu mensaje.
+
+2. Instalación en Gmail
+A- Inicia sesión en tu cuenta de Gmail.
+
+B- Haz clic en el icono de "Configuración" (el engranaje) en la esquina superior derecha y selecciona "Ver toda la configuración".
+
+C- Desplázate hacia abajo hasta la sección "Firma" (Signature).
+
+D- Si no tienes una firma existente, haz clic en "Crear nueva". Si ya tienes una, puedes editarla o crear una nueva.
+
+E- Dale un nombre a tu firma (ej. "Amin").
+
+F- En el cuadro de texto del editor de firmas, pega el código HTML completo de tu firma. IMPORTANTE! Copiar de Izquierda a derecha  
+Es importante que la pegues directamente si el editor lo permite 
+(a veces hay un icono para código fuente o simplemente pegando funciona si el editor es "enriquecido"). 
+Si el editor de Gmail no te permite pegar HTML directamente, a veces se debe pegar en un editor como Google Docs o Word, 
+luego copiar desde allí y pegar en Gmail. La imagen del logo debería aparecer visible.
+
+G- En la sección "Valores predeterminados de la firma" (Signature defaults), 
+selecciona la nueva firma que acabas de crear para "Para usar en correos nuevos" y 
+"Para usar en respuestas y reenvíos", según tu preferencia.
+
+H- Desplázate hasta la parte inferior de la página y haz clic en "Guardar cambios".
+
+3. Instalación en Apple Mail (macOS)
+A- Abre la aplicación Mail en tu Mac.
+
+B- En la barra de menú superior, haz clic en "Mail" y luego selecciona "Ajustes..." 
+(o "Preferencias...", dependiendo de la versión de macOS).
+
+C- Haz clic en la pestaña "Firmas" (Signatures).
+
+D- En la columna central, selecciona la cuenta de email para la que deseas crear la firma.
+
+E- Haz clic en el botón "+" (más) en la parte inferior de la columna central para crear una nueva firma.
+
+F- En la columna de la derecha, donde se edita la firma, desmarca la casilla "Ajustar automáticamente al ancho del mensaje" (o "Match my default message font"). Esto es crucial para que el HTML se muestre correctamente.
+
+G- Copia el código HTML completo de tu firma (asegúrate de copiar desde el <!DOCTYPE html> hasta </html>).
+
+H- Pega el código HTML en el cuadro de texto de la firma. No verás el formato HTML de inmediato; es posible que veas el código.
+
+I- Cierra la ventana de "Ajustes/Preferencias" (generalmente se guarda automáticamente o te preguntará si deseas guardar).
+
+J- Crea un nuevo correo electrónico con la cuenta a la que asignaste la firma. ¡Tu firma HTML debería aparecer correctamente formateada! Si al principio no se ve bien, puedes cerrar y reabrir la aplicación Mail.
+
+¡Espero que estas instrucciones sean claras y le faciliten la instalación! Si tiene alguna dificultad, no dudes en consultarme.
+Consideraciones Importantes
+
+Visualización en Outlook: Es posible que, al ver la firma en Outlook, notes una ligera diferencia en el estilo. 
+Esto se debe a que Outlook utiliza un "Motor de renderizado de Word". No te preocupes, esto es completamente normal. 
+La firma se mostrará perfectamente con su diseño original al receptor.
+
+Logos Netlify: Para una correcta utilizacion de los logos en tus proximos trabajos HTML, haz click derecho en la imagen
+seleccionada y elige la opcion "copiar direccion de imagen". Este será el link que pegaras en tu codigo
+
+Recomendación: Para tu tranquilidad, te sugiero enviar correos de prueba a diferentes 
+cuentas (Gmail, Hotmail, Outlook) para verificar cómo se visualiza tu firma.
+
+Si tienes alguna duda o necesitas asistencia, no dudes en contactarme:
+
+WhatsApp: +5493816320130
+Correo Electrónico: santiagoemmanuelmolina@gmail.com
+
+Espero que esta guía te sea de gran utilidad.
+
+Saludos cordiales,
+
+Santiago Emmanuel Molina
+
